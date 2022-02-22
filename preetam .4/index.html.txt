@@ -4,7 +4,7 @@
      <title></tittle>
 </head>
 <body>
-<script src="script.js">
+<script src="script.js.txt">
 </script>
 </body>
 </html>
